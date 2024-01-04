@@ -1,7 +1,8 @@
 repo_name: yuriportfolio/Reactive-Resume
 report_id: d09e2413a5cbb45e60aa1c4263a33edd
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T20:18:05+00:00'
+timestamp: '2024-01-04T15:14:45+00:00'
 requested_by: AmruthPillai
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 10:40:57.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -69,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -83,7 +90,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -96,7 +103,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -109,7 +116,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/Dockerfile
+  detection_source: client/Dockerfile
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
 - name: React
@@ -122,7 +130,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -135,7 +143,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -162,7 +170,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/7419/20165699.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -174,6 +182,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -187,7 +196,7 @@ tools:
   category: Data Stores
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/6740/no-img-open-source.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -201,7 +210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -214,6 +223,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -224,7 +234,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: schema/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
+  detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-02 16:44:11.000000000 Z
 - name: Git
@@ -235,6 +246,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -244,7 +256,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/docker-build-push.yml"
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/.github/workflows/digitalocean-deploy.yml
+  detection_source: ".github/workflows/digitalocean-deploy.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-12-26 02:04:49.000000000 Z
 - name: Gradle
@@ -256,7 +269,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: app/gradlew.bat
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/app/app/build.gradle
+  detection_source: app/app/build.gradle
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-09 21:40:59.000000000 Z
 - name: Prettier
@@ -269,8 +283,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
+  detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: Webpack
@@ -283,7 +297,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -295,6 +309,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -306,6 +321,7 @@ tools:
   category: Collaboration
   sub_category: Agile Project Management
   image_url: https://img.stackshare.io/service/2/acunote.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
   detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-02 16:44:11.000000000 Z
@@ -317,6 +333,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/app/build.gradle
   detection_source: app/build.gradle
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 10:40:57.000000000 Z
@@ -329,8 +346,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: Nodemailer
@@ -341,6 +358,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -353,6 +371,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -364,7 +383,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -378,7 +397,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -392,7 +411,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -406,7 +425,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -420,7 +439,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -434,7 +453,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18195/default_5b09e8832af55b8bf88554d45d4eb65653e6ac76.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -448,7 +467,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -462,8 +481,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: "@types/node"
@@ -476,8 +495,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: "@types/passport"
@@ -490,7 +509,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18669/default_3ed0a361a097c631ee66d5aace42497748694521.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -504,7 +523,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -518,7 +537,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -532,7 +551,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -546,8 +565,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
@@ -560,7 +579,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
   detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -574,7 +593,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
   detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -588,7 +607,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-08-21 20:18:12.000000000 Z
@@ -603,7 +622,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17651/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -618,7 +637,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17583/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -632,7 +651,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-04-30 10:58:17.000000000 Z
@@ -646,7 +665,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
   detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -660,7 +679,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18333/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -675,7 +694,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18236/default_006273ebad013729e0798e0376579caca9efaa4e.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -690,8 +709,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-12-16 13:34:15.000000000 Z
 - name: eslint-plugin-import
@@ -704,7 +723,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
   detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -718,7 +737,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17925/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-11-13 13:28:47.000000000 Z
@@ -732,8 +751,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
 - name: monaco-editor
@@ -746,7 +765,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18275/default_04867aeead13d19d0c97d0c649f8b38985a43aba.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -760,7 +779,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-01-04 21:15:13.000000000 Z
@@ -774,8 +793,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-01-03 16:06:30.000000000 Z
 - name: npm-check-updates
@@ -789,7 +808,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16610/default_50c9ed1615a25628505ab53def64d82450ced26b.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
   detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -803,7 +822,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16304/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -817,7 +836,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18238/default_d0bdfc944c04fa7e84198f9a2784cc716a3d91a3.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -831,7 +850,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -845,7 +864,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -859,7 +878,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-01-19 06:33:15.000000000 Z
@@ -880,7 +899,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16710/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -894,7 +913,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16799/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -908,7 +927,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -922,7 +941,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -936,7 +955,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -950,7 +969,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -964,7 +983,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16472/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -978,7 +997,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-03-06 21:48:29.000000000 Z
@@ -992,7 +1011,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -1006,7 +1025,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -1020,10 +1039,17 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
+  vulnerabilities:
+  - name: sharp vulnerability in libwebp dependency CVE-2023-4863
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-54xq-cgqr-rpm3
+    detected_date: Nov 17
+    severity: high
+    first_patched: 0.32.6
 - name: source-map-support
   description: Fixes stack traces for files with source maps
   package_url: https://www.npmjs.com/source-map-support
@@ -1034,7 +1060,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -1048,7 +1074,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-06 09:50:28.000000000 Z
@@ -1062,7 +1088,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-12-16 13:34:15.000000000 Z
@@ -1076,8 +1102,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/package.json
+  detection_source: package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: tsconfig-paths
@@ -1090,7 +1116,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
-  detection_source_url: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/server/package.json
   detection_source: server/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
@@ -1104,8 +1130,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: client/package.json
-  detection_source: server/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
+  detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2023-04-04 21:47:02.000000000 Z
 - name: webfontloader
@@ -1119,7 +1145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18680/default_796854034d0fb722b81b1d885cb3ab88a613d5fb.png
-  detection_source_url: client/package.json
+  detection_source_url: https://github.com/yuriportfolio/Reactive-Resume/blob/main/client/package.json
   detection_source: client/package.json
   last_updated_by: Amruth Pillai
   last_updated_on: 2022-10-07 08:44:29.000000000 Z
