@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 yuriportfolio/Reactive-Resume is built on the following main stack:
+
 - [Acunote](http://www.acunote.com/) – Agile Project Management
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
@@ -32,11 +33,13 @@ yuriportfolio/Reactive-Resume is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 yuriportfolio/Reactive-Resume is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/2/acunote.png' alt='Acunote'/> [Acunote](http://www.acunote.com/) – Agile Project Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
@@ -67,14 +70,15 @@ yuriportfolio/Reactive-Resume is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/Reactive-Resume](https://github.com/yuriportfolio/Reactive-Resume)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|83<br/>Tools used|11/09/23 <br/>Report generated|
+|83<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -404,7 +408,7 @@ Full tech stack [here](/techstack.md)
 |[reflect-metadata](https://www.npmjs.com/reflect-metadata)|v0.1.13|03/06/22|Amruth Pillai |Apache-2.0|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v4.4.1|04/04/23|Amruth Pillai |ISC|N/A|
 |[sass](https://www.npmjs.com/sass)|v1.60.0|04/04/23|Amruth Pillai |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.32.0|04/04/23|Amruth Pillai |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.32.0|04/04/23|Amruth Pillai |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[source-map-support](https://www.npmjs.com/source-map-support)|v0.5.21|04/04/23|Amruth Pillai |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.1|04/06/23|Amruth Pillai |MIT|N/A|
 |[ts-loader](https://www.npmjs.com/ts-loader)|v9.4.2|12/16/22|Amruth Pillai |MIT|N/A|
@@ -416,4 +420,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
